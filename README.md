@@ -36,7 +36,7 @@ The **AirBnB Clone - The Console** is a project aimed at building a basic comman
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/azukauteh/airbnb_console.git
+   git clone https://github.com/azukauteh/AirBnB_clone.git
    ```
 
 2. Navigate to the project directory:
