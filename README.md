@@ -105,6 +105,12 @@ EOF  help  quit
 (hbnb) 
 $
 
+
+
+![Alt text](image-1.png)
+
+
+
 ## Requirements
 
 #Python Scripts
@@ -156,3 +162,6 @@ All your classes should have a documentation (python3 -c 'print(__import__("my_m
 
 All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__
 import__("my_module").MyClass.my_function.__doc__)')
+
+
+[def]: image.png
