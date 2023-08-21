@@ -42,7 +42,7 @@ The **AirBnB Clone - The Console** is a project aimed at building a basic comman
 2. Navigate to the project directory:
 
    ```
-   cd airbnb
+   cd AirBnB_clone
    ```
 
 3. Run the console application:
