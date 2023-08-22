@@ -17,6 +17,7 @@ Welcome to the **AirBnB Clone - The Console** project! This project is  a comman
 - [Supported Commands](#supported-commands)
 - [Execution](#Execution)
 - [Requirements](#Requirements)
+- [More Info](#more Info)
 
 ## Introduction
 
@@ -107,10 +108,6 @@ $
 
 
 
-![Alt text](image-1.png)
-
-
-
 ## Requirements
 
 #Python Scripts
@@ -134,7 +131,7 @@ All your classes should have a documentation (python3 -c 'print(__import__("my_m
 All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__
 import__("my_module").MyClass.my_function.__doc__)')
 
-#Python Unit Tests
+# Python Unit Tests
 
 All your files should end with a new line
 
@@ -163,5 +160,7 @@ All your classes should have a documentation (python3 -c 'print(__import__("my_m
 All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__
 import__("my_module").MyClass.my_function.__doc__)')
 
+## More Info
 
-[def]: image.png
+![Alt text](image-1.png)
+def]: image.png
