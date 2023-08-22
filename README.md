@@ -163,4 +163,4 @@ import__("my_module").MyClass.my_function.__doc__)')
 ## More Info
 
 ![Alt text](image-1.png)
-def]: image.png
+
