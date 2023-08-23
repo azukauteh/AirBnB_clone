@@ -16,7 +16,7 @@ Welcome to the "0x01. AirBnB Clone - Web Static" project! This repository contai
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [More Info](#more info)
+- [More Info](#more-info)
 - [License](#license)
 
 ## Project Overview
