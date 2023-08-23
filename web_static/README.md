@@ -6,7 +6,7 @@
 
 
 
-![Project Preview](https://github.com/azukauteh/AirBnB_clone/blob/main/images/icon.png)
+![Project Preview](https://github.com/azukauteh/AirBnB_clone/web_static/images/icon.png)
 
 
 
