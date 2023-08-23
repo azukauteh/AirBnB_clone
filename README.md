@@ -17,7 +17,10 @@ Welcome to the **AirBnB Clone - The Console** project! This project is  a comman
 - [Supported Commands](#supported-commands)
 - [Execution](#Execution)
 - [Requirements](#Requirements)
+<<<<<<< HEAD
 - [More Info](#more Info)
+=======
+>>>>>>> magnificent
 
 ## Introduction
 
@@ -160,7 +163,10 @@ All your classes should have a documentation (python3 -c 'print(__import__("my_m
 All your functions (inside and outside a class) should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)' and python3 -c 'print(__
 import__("my_module").MyClass.my_function.__doc__)')
 
+<<<<<<< HEAD
 ## More Info
 
 ![Alt text](image-1.png)
 
+=======
+>>>>>>> magnificent
