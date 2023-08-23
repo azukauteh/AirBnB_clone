@@ -4,9 +4,7 @@
  ![Author](https://img.shields.io/badge/Author-Azuka%20Uteh-blue.svg)
 
 
-
-![Project Preview!
-[Alt text](image-1.png)
+![Project Preview](image-1.png)
 
 
 
