@@ -2,9 +2,7 @@
 # 0x01. AirBnB Clone - Web Static
 
 
-
-
-![HBNB Logo](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_logo.png)
+![HBNB Logo](images/icon.png)
 
 
 Welcome to the "0x01. AirBnB Clone - Web Static" project! This repository contains the initial steps of building a web static clone of the Airbnb website. In this project, we'll be focusing on creating static HTML and CSS pages that resemble the Airbnb interface.
