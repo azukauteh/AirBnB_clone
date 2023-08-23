@@ -1,6 +1,8 @@
 
 # 0x01. AirBnB Clone - Web Static
 
+![Author](https://img.shields.io/badge/Author-Azuka%20Uteh-blue.svg)
+
 
 ![HBNB Logo](images/icon.png)
 
