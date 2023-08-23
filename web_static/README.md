@@ -34,7 +34,7 @@ Follow these steps to get the project up and running on your local machine:
 
 2. Navigate to the project directory:
    ```bash
-   cd 0x01-airbnb-clone-web-static
+   cd AirBnB_clone
    ```
 
 ## Usage
