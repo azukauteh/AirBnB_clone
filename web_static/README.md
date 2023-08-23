@@ -5,8 +5,8 @@
 
 
 
-
-![Project Preview](https://github.com/azukauteh/AirBnB_clone/web_static/images/icon.png)
+![Project Preview!
+[Alt text](image-1.png)
 
 
 
@@ -58,11 +58,6 @@ The project is built using the following technologies:
 
 - HTML: Markup for structuring web pages.
 - CSS: Styling and layout of web pages.
-
-## More Info
-
-![Alt text](image-1.png)
-
 
 ---
 
