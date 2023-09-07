@@ -72,12 +72,13 @@ Refer to the in-console help feature for more information about each command's s
 ## Execution
 
 Shell should work like this in interactive mode:
-
+```
 $ ./console.py
 (hbnb) help
-
+```
 Documented commands (type help <topic>):
 ========================================
+```
 EOF  help  quit
 
 (hbnb) 
@@ -88,9 +89,10 @@ But also in non-interactive mode:
 
 $ echo "help" | ./console.py
 (hbnb)
-
+```
 Documented commands (type help <topic>):
 ========================================
+```
 EOF  help  quit
 (hbnb) 
 $
@@ -99,13 +101,14 @@ help
 $
 $ cat test_help | ./console.py
 (hbnb)
-
+```
 Documented commands (type help <topic>):
 ========================================
+```
 EOF  help  quit
 (hbnb) 
 $
-
+```
 
 
 ## Requirements
